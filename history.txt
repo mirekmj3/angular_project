@@ -1,0 +1,169 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  sudo apt install git
+    4  sudo apt install nodejs npm
+    5  npm install -g #angular/cli
+    6  npm install -g @angular/cli
+    7  sudo npm install -g @angular/cli
+    8  sudo apt install curl
+    9  curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+   10  source ~/.profile 
+   11  nvm install 18.18.0
+   12  sudo apt install net-tools
+   13  ifconfig
+   14  cd /home
+   15  dir
+   16  cd mj
+   17  cd /
+   18  dir
+   19  ls
+   20  cd home/mj
+   21  cd home
+   22  cd /home
+   23  cd mj
+   24  cd /home/mj
+   25  cd /home
+   26  cd /mj
+   27  dir
+   28  cd mj
+   29  ls
+   30  dir
+   31  mkdir projekt1
+   32  cd projekt1/
+   33  npm init
+   34  cat package.json 
+   35  npm install htpp
+   36  sudo npm install ht
+   37  npm install http
+   38  code .
+   39  node index.js
+   40  sudo apt install nginx
+   41  sudo service nginx status
+   42  sudo nano /etc/nginx/sites-available/default 
+   43  sudo server restart
+   44  sudo service nginx restart
+   45  sudo chmod 777
+   46  sudo chmod 777 -R
+   47  sudo chmod -R 777
+   48  sudo chmod -R 777 /home/mj
+   49  sudo nano /etc/nginx/sites-available/default 
+   50  sudo service nginx restart
+   51  node index.js
+   52  npm install -g @angular/cli
+   53  cd..
+   54  cd ..
+   55  mkdir projekt2
+   56  cd projekt
+   57  cd projekt2
+   58  ng new my_first_project
+   59  code .
+   60  sudo nano /etc/nginx/sites-available/default 
+   61  sudo service nginx restart
+   62  ls
+   63  cd project2
+   64  cd /project2
+   65  cd projekt2
+   66  dir
+   67  ng new my_first_project
+   68  dir
+   69  cd my_first_project/
+   70  cd /
+   71  dir
+   72  cd home
+   73  dir
+   74  chmod -R /home/mj 777
+   75  dir
+   76  cd /mj
+   77  cd mj
+   78  dir
+   79  cd projekt2
+   80  dir
+   81  chmod -R 777
+   82  chmod -R 777 /projekt2
+   83  cd ..
+   84  chmod -R 777 /projekt2
+   85  chmod -R 777 /root/home/mj/projekt2
+   86  sudo chmod -R 777 /root/home/mj/projekt2
+   87  sudo chmod -R 777 /home/mj/projekt2
+   88  ng serve
+   89  sudo ng serve
+   90  nvm install 18.18.0
+   91  node -v
+   92  sudo npm install
+   93  sudo npm install @angular/cli
+   94  sudo npm install -g  @angular/cli
+   95  ng serve
+   96  sudo ng serve
+   97  ls
+   98  cd projekt2/my_first_project/
+   99  sudo ng serve
+  100  ng serve
+  101  cd ..
+  102  dir
+  103  cd ..
+  104  dir
+  105  mkdir projekt3
+  106  cd projekt3
+  107  npm init
+  108  npm install typescript --save -dev
+  109  cat package.json
+  110  npx tsc
+  111  npx tsc --init
+  112  code .
+  113  [200~class Greeter {
+  114  cd ..
+  115  dir
+  116  mkdir projekt4
+  117  dir
+  118  cd projekt4
+  119  touch index.html
+  120  code .
+  121  cd ..
+  122  dir
+  123  cd projekt5
+  124  dir
+  125  cd first-app-lesson-00/
+  126  dir
+  127  code .
+  128  npm install
+  129  ng serve
+  130  ng build
+  131  ng test
+  132  cd ..
+  133  dir
+  134  cd projekt5
+  135  cd first-app-lesson-00/
+  136  ng generate component --standalone --inline -template--skip-tests
+  137  ng generate component --standalone -inline -template--skip-tests
+  138  ng generate component --standalone --inline -template --skip -tests
+  139  ng generate component --standalone --inline-template --skip-tests
+  140  ng generate interface housinglocation
+  141  ng generate component --standalone --inline-template --skip-tests
+  142  ng generate interface products
+  143  ls
+  144  git status
+  145  git init
+  146  git config --global user.name Miroslaw Jarzab
+  147  git config --global user.email mirekmj3@gmail.com
+  148  git status
+  149  git add .
+  150  git branch -M main
+  151  git commit -m "first commit angular app"
+  152  git add origin git@github.com:mirekmj3/angular_project.git
+  153  git remote add origin git@github.com:mirekmj3/angular_project.git
+  154  git remote -v
+  155  git push origin main
+  156  ssh-keygen
+  157  cat /home/mj/.ssh/id_rsa.pub
+  158  git push origin main
+  159  git branch
+  160  ng generate service housing --skip-tests
+  161  git add .
+  162  ng generate component --standalone --inline-template --skip-tests details
+  163  cd cd projekt5
+  164  cd projekt5
+  165  dir
+  166  cd first-app-lesson-00/
+  167  code .
+  168  ng serve
+  169  history > history.txt
